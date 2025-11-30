@@ -32,6 +32,6 @@ This thesis explores the use of artificial intelligence in **Fund of Hedge Funds
 - Python 3.x
 - NumPy, Pandas
 - Scikit-learn, XGBoost
-- TensorFlow / PyTorch (if applicable)
+- TensorFlow / PyTorch
 - OpenAI Gym / Custom RL Environment
 - Matplotlib, Seaborn
