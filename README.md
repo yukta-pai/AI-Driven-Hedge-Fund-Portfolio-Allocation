@@ -1,4 +1,4 @@
-# Master-Thesis: AI-Driven Hedge Fund Portfolio Allocation
+# Master-Thesis: AI-Driven Funds of Hedge Fund Portfolio Allocation
 
 This thesis explores the use of artificial intelligence in **Fund of Hedge Funds** (FoHF) portfolio allocation. The goal is to **generate enhanced alpha** by leveraging machine learning for hedge fund return prediction, followed by portfolio optimization via reinforcement learning.
 
