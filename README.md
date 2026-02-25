@@ -26,6 +26,12 @@ This thesis explores the use of artificial intelligence in **Fund of Hedge Funds
 - **Portfolio Allocation:**
   - Reinforcement Learning agent trained to **maximize the Sharpe Ratio**.
   - Dynamic allocation strategy that selects from **4,500+ hedge funds**.
+  
+- **Results & Evaluation:**
+  - Benchmarked multiple ML models on predictive accuracy of hedge fund returns.
+  - Selected Gradient Boosting + Reinforcement Learning framework based on out-of-sample performance.
+  - Evaluated portfolio performance using Sharpe ratio and drawdown metrics.
+  - Analysed robustness under varying market scenarios.
 
 ## Tech Stack
 
